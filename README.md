@@ -1,6 +1,6 @@
 # OpenAINet
 
-Exemplo de OpenjAI (Utilizada no ChatGPT) com Net 7
+Exemplo simples de OpenAI (Utilizada no ChatGPT) com Net 7
 
 Este exemplo utilizando Console Application é o mesmo caso seja utilizado em Aplicações WEB, MAUI e etc.
 
