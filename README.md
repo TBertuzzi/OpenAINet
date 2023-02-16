@@ -2,7 +2,7 @@
 
 Exemplo simples de OpenAI (Utilizada no ChatGPT) com Net 7
 
-Este exemplo utilizando Console Application é o mesmo caso seja utilizado em Aplicações WEB, MAUI e etc.
+Este exemplo utiliza  Console Application é o mesmo caso seja utilizado em Aplicações WEB, MAUI e etc.
 
 Obter acesso a API : https://openai.com/api/
 
