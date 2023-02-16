@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Text;
+using Newtonsoft.Json;
+using OpenAINet;
+
+var openai = new OpenAI();
+openai.ExecutarChat().Wait();
+
